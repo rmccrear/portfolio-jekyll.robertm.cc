@@ -1,0 +1,15 @@
+- title: Read Nose ("red" nose) Chrome Extension
+  slug: read-nose
+  blurb: Most language learners are bogged down with vocabulary. This Extension curates a custom list of vocabulary to learn before reading a page. This way, you won't get stuck on the words you don't know and can focus on the meaning.
+  blurb2: To understand most written and spoken English, you only need to learn about 2000 words. To understand most academic writing, you need about 7000 more. The General Service List and Academic Word List are well researched and are a good place to start. Let this Extension help you find words on the list from the content you want to read.
+  description: "Read Nose: Sniff out vocabulary. This a Chrome extension based on educational word lists. The most studied word lists are called the GSL and the AWL. The GSL covers 80% of the words used in most English corpuses by raw word count. The GSL+AWL covers 90% of the words in academic contexts. So learning words from these lists can be beneficial.  The extension simply detects which words are on the page and lists them in the popup. It is not intended to be a dictionary. It’s just a tool to help students narrow down the list of word they need to study, or to allow them to produce a word list to study before tackling the article. (Technologies: JavaScript, Material UI) "
+- title: Drama Echo
+  slug: dramaecho
+  blurb: Learn a language by doing voice-overs.
+  blurb2: Learn English by doing voice-overs. The purpose of this app is to give a user practice listening to a short video or audio clip, then repeating it themselves.
+  description: "Learn English by doing voice-overs. The purpose of this app is to give a user practice listening to a short video or audio clip, then repeating it themselves. If it is a video clip, the user’s voice will be spliced over the video. Teachers can make their own lessons by cutting and uploading video clips with and adding a script in the target language."
+- title: Fliptcc
+  slug: fliptcc
+  blurb: Do worksheets on your phone. Get real time results from students. 
+  blurb2: Do worksheets on your phone. Get real time results from students.
+  description: "Do worksheets on your phone. Get real time results from students. This app has a series of lessons from books used in my school, as well as a few radio stories. Students read or listen, then answer questions. The results are viewable to the teachers in real-time as they answer."

@@ -1,0 +1,23 @@
+<div class="projects__content">
+  <div class="projects__row">
+    <div class="projects__row-img-cont">
+      <img
+        src="./assets/jpeg/project-mockup-{{project.slug}}.jpg"
+        alt="Software Screenshot"
+        class="projects__row-img"
+        loading="lazy"
+      />
+    </div>
+    <div class="projects__row-content">
+      <h3 class="projects__row-content-title"> {{project.title}}</h3>
+      <p class="projects__row-content-desc">
+        {{project.blurb}}
+      </p>
+      <a
+        href="./{{project.slug}}"
+        class="btn btn--med btn--theme dynamicBgClr"
+        target="_blank"
+        >Learn More</a
+      >
+    </div>
+</div>
